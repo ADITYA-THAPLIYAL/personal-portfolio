@@ -91,7 +91,7 @@ section {
 
 .blob {
     z-index: 1;
-    background-image: url(./images/IMG_05393.jpg);
+    background-image: url("./images/IMG_05393.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
